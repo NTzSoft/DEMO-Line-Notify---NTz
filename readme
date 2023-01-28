@@ -1,0 +1,3 @@
+เข้าเว็บ https://notify-bot.line.me/
+นำ token จากเว็บ Line Notify มาใส่ใน .env
+ทดสอบใน terminal พิมพ์คำสั่ง node index.js
